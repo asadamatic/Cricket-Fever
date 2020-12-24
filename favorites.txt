@@ -1,6 +1,5 @@
 My favourite cricketers,
 
-asadamatic-patch-1
 1. Styen
 2. Johnson
 
@@ -8,5 +7,5 @@ asadamatic-patch-1
 2. Styen
 3. Brad Haddin
 4. Johnson
- main
+
 
